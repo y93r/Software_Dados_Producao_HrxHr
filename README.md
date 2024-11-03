@@ -1,4 +1,4 @@
-# Software_Dados_Producao_Maquinas
+# Software Dados de Producao Hr x Hr
 
 ## HR X HR
 Criação de um software para coleta de dados de produção diária hora x hora das máquinas.
